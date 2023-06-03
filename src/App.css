@@ -1,0 +1,13 @@
+.board-row {
+    width: fit-content;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.square {
+    width:3rem;
+    height: 3rem;
+    font-size: 2rem;
+    margin: auto;
+}
